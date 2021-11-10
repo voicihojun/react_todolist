@@ -64,4 +64,4 @@ function Quote() {
 
 export default Quote;
 
-// exports.findRandomNumber = findRandomNumber;
+exports.findRandomNumber = findRandomNumber;

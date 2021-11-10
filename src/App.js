@@ -8,6 +8,7 @@ import Quote from "./Quote/Quote";
 function App() {
   return (
     <div className="App">
+      <h1 id="title">TODO</h1>
       <div id="todo-container">
         <Clock />
         <Login />
